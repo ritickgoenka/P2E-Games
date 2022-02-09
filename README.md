@@ -23,7 +23,7 @@ How to share new unique game ideas
 How to publish your games
 -------------------------
 
-Publishing your own Ply to Earn Game on Doss currently requires some scripting and programming knowledge. We are working on making it more streamlined and easier for non-programmers to publish their own game.
+Publishing your own Play to Earn Game on Doss currently requires some scripting and programming knowledge. We are working on making it more streamlined and easier for non-programmers to publish their own game.
 
   
 
